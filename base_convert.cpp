@@ -1,5 +1,6 @@
 #include <cstdio>
 #include <stack>
+//convert decimal integer to other bases including 2, 4, 8, 16, -2 and so on.
 using namespace std;
 const int p = -2;
 void convert(int ori){
